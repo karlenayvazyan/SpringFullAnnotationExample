@@ -1,3 +1,3 @@
 # SpringFullAnnotationExample
 
-Spring example without xml
+Spring example without xml# SpringProfileExample
